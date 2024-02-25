@@ -2,7 +2,7 @@
 
 # Invoice to CSV Converter
 
-This is a simple web application built with Flask that allows users to upload a PDF file, process each page, extract key-value pairs using Tesseract OCR, and save the results as a CSV file.
+This is a simple web application built with Flask that allows users to upload a PNG file, extract key-value pairs using Tesseract OCR, and save the results as a CSV file.
 
 ## Features
 
